@@ -1,0 +1,1 @@
+Repository to accompany my tutorial here: https://petersimpson.dev/blog/trying-out-django-ninja/ 
