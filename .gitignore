@@ -113,3 +113,6 @@ media/
  **/migrations/**
  !**/migrations
  !**/migrations/__init__.py
+ 
+ # Don't share stuff about your local file system with github
+ .idea/
